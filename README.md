@@ -32,7 +32,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML: Utilizado para a estruturação do site.
 - CSS: Utilizado para estilização e layout do site, com foco em posicionamento, flexbox e grid.
 
-Esperamos que você goste do nosso projeto! Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+Espero que você goste do projeto! Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
 https://bikcraft-f9ugfxkqw-nathaliapadovani.vercel.app/
 ![bikcraft](https://github.com/nathaliapadovani/Bikcraft/assets/113705196/b89f5787-1252-46a9-a28c-879e37b28448)
